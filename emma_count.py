@@ -1,8 +1,6 @@
 # Write a program to find how many times substring 
 #“Emma” appears in the given string.
 
-import string
-
 # Pseudocode
 
 # Paste the given 
